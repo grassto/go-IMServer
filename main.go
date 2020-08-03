@@ -1,0 +1,3 @@
+package imss
+
+func Get() {}
