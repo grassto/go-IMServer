@@ -1,5 +1,5 @@
-package main
+package ims
 
-func main() {
+func Getkkk() {
 
 }
